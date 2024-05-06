@@ -1,5 +1,7 @@
 # habituation-pub
 
+Tools: Python 3.9.6 with packages listed in `requirements.txt`
+
 Notebooks for recreating panels of figures appearing in the text:  
 - Figure 2 - `notebooks/figures_adapt_vs_hab.ipynb`
 - Figure 3D - `notebooks/figures_minimal_unit.ipynb`
