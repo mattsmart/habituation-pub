@@ -1,4 +1,4 @@
-# Minimal Motifs for Habituating Systems
+# Minimal motifs for habituating systems
 
 Code for the paper ["Minimal motifs for habituating systems" (PNAS 2024)](https://www.pnas.org/doi/10.1073/pnas.2409330121).
 
